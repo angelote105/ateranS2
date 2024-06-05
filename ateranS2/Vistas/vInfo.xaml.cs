@@ -5,5 +5,6 @@ public partial class vInfo : ContentPage
 	public vInfo()
 	{
 		InitializeComponent();
+		//prueba
 	}
 }
