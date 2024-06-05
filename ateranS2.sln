@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ateranS2", "ateranS2\ateranS2.csproj", "{B7851842-2B2C-496C-9AC6-D83B7515268A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7851842-2B2C-496C-9AC6-D83B7515268A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90EAF5FB-E399-43E4-BA50-A8F41D71858A}
+	EndGlobalSection
+EndGlobal
